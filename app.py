@@ -4,7 +4,7 @@ import joblib
 
 # this is the main function in which we define our webpage  
 def main():
-    st.markdown("# Wine Quality Prediction App 🍷🍇")
+    st.markdown("# Wine Quality Prediction App 🍷🍇 💋‍")
     st.markdown("### This app is meant to predict red wine quality " +
              "according to different chemical properties.")
     st.image('wine_image.jpg')  # Add an image
