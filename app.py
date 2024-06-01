@@ -7,7 +7,7 @@ def main():
     st.markdown("# Wine Quality Prediction App 🍷🍇")
     st.markdown("### This app is meant to predict red wine quality " +
              "according to different chemical properties.")
-    #st.image('wine_image.jpg')  # Add an image
+    st.image('wine_image.jpg')  # Add an image
 
 # Init code
 if __name__=='__main__': 
