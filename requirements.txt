@@ -1,2 +1,2 @@
 joblib==1.4.2
-sklearn==0.24.1
+scikit-learn==1.5.0
